@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Extract local variable &apos;fichero&apos; from expression &apos;new File(&quot;NUEVODIR/Data.txt&quot;)&apos;&#x0D;&#x0A;- Original project: &apos;accesoDatos&apos;&#x0D;&#x0A;- Variable name: &apos;fichero&apos;&#x0D;&#x0A;- Destination method: &apos;accesoDatos.EscribirIFichData.main(...)&apos;&#x0D;&#x0A;- Variable expression: &apos;new File(&quot;NUEVODIR/Data.txt&quot;)&apos;&#x0D;&#x0A;- Replace occurrences of expression with variable" description="Extract local variable &apos;fichero&apos;" final="false" id="org.eclipse.jdt.ui.extract.temp" input="/src&lt;accesoDatos{EscribirIFichData.java" name="fichero" replace="true" replaceAllInThisFile="false" selection="347 29" stamp="1726845753077" varType="false" version="1.0"/>
+</session>
