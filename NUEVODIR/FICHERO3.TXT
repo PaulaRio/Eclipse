@@ -1,0 +1,135 @@
+Esto es una prueba con FileWriter+++Esto es una prueba con FileWriter
+*una línea más.
+*esto es lo ultimo.
+Albacete
+
+Avila
+
+Badajoz
+
+Cáceres
+
+Huelva
+
+Jaén
+
+Madrid
+
+Segovia
+
+Soria
+
+Toledo
+
+Valladolid
+
+Zamora
+
+Esto es una prueba con FileWriter+++Esto es una prueba con FileWriter
+*una línea más.
+*esto es lo ultimo.
+Albacete
+
+Avila
+
+Badajoz
+
+Cáceres
+
+Huelva
+
+Jaén
+
+Madrid
+
+Segovia
+
+Soria
+
+Toledo
+
+Valladolid
+
+Zamora
+
+Esto es una prueba con FileWriter+++Esto es una prueba con FileWriter
+*una línea más.
+*esto es lo ultimo.
+Albacete
+
+Avila
+
+Badajoz
+
+Cáceres
+
+Huelva
+
+Jaén
+
+Madrid
+
+Segovia
+
+Soria
+
+Toledo
+
+Valladolid
+
+Zamora
+
+Esto es una prueba con FileWriter+++Esto es una prueba con FileWriter
+*una línea más.
+*esto es lo ultimo.
+Albacete
+
+Avila
+
+Badajoz
+
+Cáceres
+
+Huelva
+
+Jaén
+
+Madrid
+
+Segovia
+
+Soria
+
+Toledo
+
+Valladolid
+
+Zamora
+
+Esto es una prueba con FileWriter+++Esto es una prueba con FileWriter
+*una línea más.
+*esto es lo ultimo.
+Albacete
+
+Avila
+
+Badajoz
+
+Cáceres
+
+Huelva
+
+Jaén
+
+Madrid
+
+Segovia
+
+Soria
+
+Toledo
+
+Valladolid
+
+Zamora
+

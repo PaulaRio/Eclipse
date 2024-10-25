@@ -6,7 +6,11 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="lib" path="E:/AD/JAR/xstream-1.4.20/lib/xstream-1.4.20.jar"/>
-	<classpathentry kind="lib" path="E:/AD/JAR/xstream-1.4.20/lib/xstream/kxml2-min-2.3.0.jar"/>
+	<classpathentry kind="lib" path="E:/AD/Eclipse/JAR/kxml2-2.3.0.jar"/>
+	<classpathentry kind="lib" path="E:/AD/Eclipse/JAR/xstream-1.4.13.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
