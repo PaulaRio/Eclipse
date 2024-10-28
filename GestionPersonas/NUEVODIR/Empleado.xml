@@ -1,0 +1,37 @@
+<ListaPersonasMunicipio>
+  <DatosPersona>
+    <NombreEmpleado>Raquel</NombreEmpleado>
+    <EdadEmpleado>25</EdadEmpleado>
+    <SalarioEmpleado>2000.0</SalarioEmpleado>
+  </DatosPersona>
+  <DatosPersona>
+    <NombreEmpleado>Belen</NombreEmpleado>
+    <EdadEmpleado>23</EdadEmpleado>
+    <SalarioEmpleado>1500.0</SalarioEmpleado>
+  </DatosPersona>
+  <DatosPersona>
+    <NombreEmpleado>Lorena</NombreEmpleado>
+    <EdadEmpleado>26</EdadEmpleado>
+    <SalarioEmpleado>1800.0</SalarioEmpleado>
+  </DatosPersona>
+  <DatosPersona>
+    <NombreEmpleado>Alis</NombreEmpleado>
+    <EdadEmpleado>23</EdadEmpleado>
+    <SalarioEmpleado>2000.0</SalarioEmpleado>
+  </DatosPersona>
+  <DatosPersona>
+    <NombreEmpleado>Isa</NombreEmpleado>
+    <EdadEmpleado>26</EdadEmpleado>
+    <SalarioEmpleado>1700.0</SalarioEmpleado>
+  </DatosPersona>
+  <DatosPersona>
+    <NombreEmpleado>Pablo</NombreEmpleado>
+    <EdadEmpleado>25</EdadEmpleado>
+    <SalarioEmpleado>1500.0</SalarioEmpleado>
+  </DatosPersona>
+  <DatosPersona>
+    <NombreEmpleado>Juan</NombreEmpleado>
+    <EdadEmpleado>23</EdadEmpleado>
+    <SalarioEmpleado>1300.0</SalarioEmpleado>
+  </DatosPersona>
+</ListaPersonasMunicipio>

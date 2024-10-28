@@ -19,11 +19,11 @@ public class LeerPersonas
 		xstream.alias("ListaPersonasMunicipio", ListaPersonas.class);
 		xstream.alias("DatosPersona", Persona.class);
 		xstream.addImplicitCollection(ListaPersonas.class, "lista");
-//		
-//		xstream.aliasField("NombreAlumno", Persona.class, "nombre");
-//		xstream.aliasField("EdadAlumno", Persona.class, "edad");
 		
-		ListaPersonas listadoTodas= (ListaPersonas)xstream.fromXML(new FileInputStream("NUEVODIR/Personas.xml"));
+		xstream.aliasField("NombreAlumno", Persona.class, "nombre");
+		xstream.aliasField("EdadAlumno", Persona.class, "edad");
+		
+		ListaPersonas listadoTodas= (ListaPersonas)xstream.fromXML(new FileInputStream("NUEVODIR/Personas2.xml"));
 		
 		System.out.println("Numero de Personas: " + listadoTodas.getListaPersonas().size());
 		List<Persona> listaPersonas = new ArrayList<Persona>();
