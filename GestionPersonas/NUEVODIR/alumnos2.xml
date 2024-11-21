@@ -1,11 +1,25 @@
 <?xml version="1.0"?>
 <listadealumnos>
    <alumno>	
+    <dni>12345678</dni>
 	<nombre>Juan</nombre>
+	<apellidos>Gomez Pereira</apellidos>
+	<direccion>Av de la Paz 38</direccion>
+	<CP>26005</CP>
+	<provincia>La Rioja</provincia>
+	<telefono>941123456</telefono>
+	<email>jgp@gmail.com</email>
 	<edad>19</edad>
    </alumno>		
    <alumno>	
+    <dni>87654321</dni>
 	<nombre>Maria</nombre>
+	<apellidos>De Martin Torcal</apellidos>
+	<direccion>Gran Via 20</direccion>
+	<CP>26003</CP>
+	<provincia>La Rioja</provincia>
+	<telefono>941654321</telefono>
+	<email>mdft@gmail.com</email>
 	<edad>20</edad>
    </alumno>		
 </listadealumnos>

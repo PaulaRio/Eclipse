@@ -14,7 +14,7 @@ public class convertidor2
   String datosAlumnos = "NUEVODIR/alumnos2.xml";		// fichero de datos
   String hojaEstilo = "NUEVODIR/alumnosPlantilla2.xsl";	// plantilla de presentaci�n
   
-  File pagHTML = new File("NUEVODIR/mipagina2.html");
+  File pagHTML = new File("NUEVODIR/mipagina3.html");
   FileOutputStream os = new FileOutputStream(pagHTML); //crear fichero HTML
   
   Source estilos =new StreamSource(hojaEstilo); //fuente XSL
