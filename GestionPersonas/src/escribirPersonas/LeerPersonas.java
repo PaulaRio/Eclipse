@@ -29,12 +29,17 @@ public class LeerPersonas
 		List<Persona> listaPersonas = new ArrayList<Persona>();
 		listaPersonas = listadoTodas.getListaPersonas();
 		Iterator iterador = listaPersonas.listIterator();
-
 		while (iterador.hasNext())
 		{
 			Persona p = (Persona) iterador.next();
 			System.out.printf("Nombre: %s, edad: %d %n", p.getNombre(), p.getEdad());
 		}
+		//Se puede hacer así en lugar de un iterator
+//		for (Persona persona : listaPersonas)
+//		{
+//			
+//			System.out.printf("Nombre: %s, edad: %d %n", persona.getNombre(), persona.getEdad());
+//		}
 		System.out.println("Fin de listado ");
 		} catch (FileNotFoundException e)
 		{
