@@ -6,7 +6,17 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="lib" path="E:/AD/JAR/xstream-1.4.20/lib/xstream-1.4.20.jar"/>
-	<classpathentry kind="lib" path="E:/AD/JAR/xstream-1.4.20/lib/xstream/kxml2-min-2.3.0.jar"/>
+	<classpathentry kind="lib" path="E:/AD/Eclipse/JAR/jdbc-odbc-bridge-jre7/jdbc-odbc-bridge-jre7.jar"/>
+	<classpathentry kind="lib" path="E:/AD/Eclipse/JAR/mysql-connector-java-5.1.18-bin.jar"/>
+	<classpathentry kind="lib" path="E:/AD/Eclipse/JAR/sqlite-jdbc-3.8.11.2.jar"/>
+	<classpathentry kind="lib" path="E:/AD/Eclipse/JAR/h2-2.3.232.jar"/>
+	<classpathentry kind="lib" path="E:/AD/Eclipse/JAR/UCanAccess-5.0.1.bin/lib/commons-lang3-3.8.1.jar"/>
+	<classpathentry kind="lib" path="E:/AD/Eclipse/JAR/UCanAccess-5.0.1.bin/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="E:/AD/Eclipse/JAR/UCanAccess-5.0.1.bin/lib/hsqldb-2.5.0.jar"/>
+	<classpathentry kind="lib" path="E:/AD/Eclipse/JAR/UCanAccess-5.0.1.bin/lib/jackcess-3.0.1.jar"/>
+	<classpathentry kind="lib" path="E:/AD/Eclipse/JAR/UCanAccess-5.0.1.bin/ucanaccess-5.0.1.jar"/>
+	<classpathentry kind="lib" path="E:/AD/Eclipse/JAR/UCanAccess-5.0.1.bin/loader/ucanload.jar"/>
+	<classpathentry kind="lib" path="E:/AD/Eclipse/JAR/db-derby-10.12.1.1-bin/lib/derby.jar"/>
+	<classpathentry kind="lib" path="E:/AD/hsqldb/lib/hsqldb.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
